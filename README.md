@@ -1,2 +1,1 @@
-# Travel-companion-using-google-map-api
-This travel companion web app, built with JavaScript and HTML, uses the Google Maps API to help users find nearby hospitals, food outlets, and more. With a simple interface and real-time location tracking, it’s an essential tool for travelers, ensuring quick access to vital services and local amenities on the go.(Testing Project)
+This travel companion web app, built with React, JavaScript, and HTML, integrates Google Maps, RapidAPI, and OpenWeather APIs. It helps users locate nearby hospitals, food outlets, and more while providing real-time weather updates. With its intuitive interface, it’s an essential tool for travelers, ensuring easy access to vital services and local info.
