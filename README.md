@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 # Clone the Repository
 
-1) git clone https://github.com/your-username/travel-companion.git
+1) git clone https://github.com/Jatinnn27/Travel-companion-using-google-map-api.git
    cd travel-companion
 
 # Install Dependencies
